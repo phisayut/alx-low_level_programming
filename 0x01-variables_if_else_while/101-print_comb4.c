@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point ,print all combinations of three different digit
- * Result: Always 0(Sucess)
+ * main- Entry point
+ * Description: print all combinations of three different digit
+ * Result: Always 0 Sucess
  */
 
 int main(void)
@@ -21,7 +22,7 @@ int main(void)
 				putchar(x + '0');
 				putchar(y + '0');
 				putchar(z + '0');
-				putchar(' ');
+				putchar(',');
 				}
 			}
 		}
