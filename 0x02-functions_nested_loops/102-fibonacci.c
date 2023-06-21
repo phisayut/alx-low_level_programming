@@ -14,7 +14,7 @@ int main(void)
 
 	for (count1 = 1; count1 <= (count2 / 2); count1++)
 	{
-		printf("%li %li ", x, y);
+		printf("%li, %li, ", x, y);
 		x += y;
 		y += x;
 	}
