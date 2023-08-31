@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_binary - converts unsigned int to binary
+ * print_binary - converts unsigned integers to binary
  * @n: unsigned int
  * Return: binary
  */
