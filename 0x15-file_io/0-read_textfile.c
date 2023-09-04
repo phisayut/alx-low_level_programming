@@ -2,7 +2,7 @@
 #include <stddef.h>
 
 /**
- * read_textfile - read a certain size and prints to std output
+ * read_textfile - reads a certain size and prints to std output
  * @filename: file to read from
  * @letters: size to read
  * Return: actual size read and printed
